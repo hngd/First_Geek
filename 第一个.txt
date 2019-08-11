@@ -1,0 +1,5 @@
+输入 git add test.txt
+
+之后输入然后git commit -m "cc" 
+ 引号内的内容可以随意改动，这个语句的意思是 给你刚刚上传的文件一个备注，方便查找记忆而已
+输入之后出现以上情况，然后在输入git push origin maste
